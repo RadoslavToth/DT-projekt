@@ -1,0 +1,96 @@
+[{
+  "_id": {
+    "$oid": "663c79a624475b7558cbd8ef"
+  },
+  "firstName": "Brosina",
+  "lastName": "Hoffman",
+  "age": "24",
+  "gender": "male",
+  "contact": {
+    "email": "b.hoffman@gmail.com",
+    "phone": "+1 856-344-9129",
+    "fax": "+1 760-531-4565"
+  },
+  "adrress": {
+    "bill_to": {
+      "street": "Jefferson Boulevard",
+      "postal_code": "90049",
+      "city": "Los Angeles",
+      "region": "West",
+      "state": "California",
+      "country": "United States"
+    },
+    "ship_to": {
+      "street": "Central Avenue",
+      "postal_code": "90032",
+      "city": "Los Angeles",
+      "region": "West",
+      "state": "California",
+      "country": "United States"
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "663c7c2324475b7558cbd8f0"
+  },
+  "firstName": "Harold",
+  "lastName": "Pawlan",
+  "age": "43",
+  "gender": "male",
+  "contact": {
+    "email": "p.pawlan@gmail.com",
+    "phone": "+1 281-487-1421",
+    "fax": "+1 850-558-7440"
+  },
+  "adrress": {
+    "bill_to": {
+      "street": "2796 Bird Spring Lane",
+      "postal_code": "77503",
+      "city": "Pasadena",
+      "region": "Central",
+      "state": "Texas",
+      "country": "United States"
+    },
+    "ship_to": {
+      "street": "Lancaster Street",
+      "postal_code": "76106",
+      "city": "Fort Worth",
+      "region": "Central",
+      "state": "Texas",
+      "country": "United States"
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "663c81d024475b7558cbd8f2"
+  },
+  "firstName": "Linda",
+  "lastName": "Cazamias",
+  "age": "43",
+  "gender": "female",
+  "contact": {
+    "email": "linda.cazamias@gmail.com",
+    "phone": "+1 630-275-2359",
+    "fax": "+1 630-422-9896"
+  },
+  "adrress": {
+    "bill_to": {
+      "street": "3259 Walkers Ridge Way",
+      "postal_code": "60540",
+      "city": "Downers Grove",
+      "region": "Central",
+      "state": "Illinois",
+      "country": "United States"
+    },
+    "ship_to": {
+      "street": "3 Farms Avenue",
+      "postal_code": "60540",
+      "city": "Naperville",
+      "region": "Central",
+      "state": "Illinois",
+      "country": "United States"
+    }
+  }
+}]

@@ -1,0 +1,176 @@
+[
+	{
+		"_id": {
+			"$oid": "663c8b5d24475b7558cbd8f4"
+		},
+		"product_name": "Panasonic Kx-TS550",
+		"unit_price": 147.168,
+		"units_in_stock": 10,
+		"category": {
+			"category_name": "Technology",
+			"category_description": "Technology plays a crucial role in driving progress and innovation in virtually every aspect of our lives.",
+			"subcategories": [
+				{
+					"subCategory_name": "Phones",
+					"subCategory_description": "A fixed line is suitable wherever you need a simple device to connect with the outside world."
+				}
+			]
+		},
+		"supplier": {
+			"company_name": "Amazon Legal Department",
+			"contact": {
+				"phone": "(206) 266-4064",
+				"fax": " (206) 266-7010",
+				"mail": "info@amazon.com"
+			}
+		},
+		"stocks": [
+			{
+				"quantity_available": 55,
+				"reorder_level": 5,
+				"reorder_quantity": 20,
+				"warehouse_location": "Amazon Fulfillment Center MDW4, 201 Emerald Dr, Joliet, IL 60433, United States"
+			},
+			{
+				"quantity_available": 23,
+				"reorder_level": 2,
+				"reorder_quantity": 23,
+				"warehouse_location": "Amazon Fulfillment Center - ORD4, 25810 S Ridgeland Ave Suite 300, Monee, IL 60449, United States"
+			}
+		],
+		"reviews": [
+			{
+				"customer_id": {
+					"$oid": "663c81d024475b7558cbd8f2"
+				},
+				"rating": 4.8,
+				"review_text": "The phone I've been waiting for.",
+				"review_date": "2023-04-06 12:37:43"
+			},
+			{
+				"customer_id": {
+					"$oid": "663c7c2324475b7558cbd8f0"
+				},
+				"rating": 1,
+				"review_text": "Not good for bad hearing!",
+				"review_date": "2024-03-07 13:12:14"
+			}
+		]
+	},
+	{
+		"_id": {
+			"$oid": "663c8d3c24475b7558cbd8f7"
+		},
+		"product_name": "Belkin F5C206VTEL 6 Outlet Surge",
+		"unit_price": 114.9,
+		"units_in_stock": 5,
+		"category": {
+			"category_name": "Office Supplies",
+			"category_description": "Office supplies are the tools and materials essential for day-to-day operations in a workplace.",
+			"subcategories": [
+				{
+					"subCategory_name": "Appliances-electrical",
+					"subCategory_description": "Appliances are electrical devices designed to perform specific tasks within a workplace."
+				}
+			]
+		},
+		"supplier": {
+			"company_name": "Amazon Legal Department",
+			"contact": {
+				"phone": "(206) 266-4064",
+				"fax": " (206) 266-7010",
+				"mail": "info@amazon.com"
+			}
+		},
+		"stocks": [
+			{
+				"quantity_available": 15,
+				"reorder_level": 1,
+				"reorder_quantity": 5,
+				"warehouse_location": "Beaumont (PSP1), Morgen, Sam; Cox, John."
+			},
+			{
+				"quantity_available": 3,
+				"reorder_level": 1,
+				"reorder_quantity": 3,
+				"warehouse_location": "Jurupa Valley (ONT1),Jurupa Valley sorting center"
+			}
+		],
+		"reviews": [
+			{
+				"customer_id": {
+					"$oid": "663c79a624475b7558cbd8ef"
+				},
+				"rating": 4.8,
+				"review_text": "A great addition to the home.",
+				"review_date": "2023-12-08 15:27:43"
+			},
+			{
+				"customer_id": {
+					"$oid": "663c7c2324475b7558cbd8f0"
+				},
+				"rating": 5,
+				"review_text": "It looks good, it has 2x usb inputs.",
+				"review_date": "2024-01-08 05:32:14"
+			}
+		]
+	},
+	{
+		"_id": {
+			"$oid": "663c8e7724475b7558cbd8f8"
+		},
+		"product_name": "Holmes Replacement Filter for HEPA Air Cleaner, Very Large Room, HEPA Filter",
+		"unit_price": 68.81,
+		"units_in_stock": 25,
+		"category": {
+			"category_name": "Office Supplies",
+			"category_description": "Office supplies are the tools and materials essential for day-to-day operations in a workplace.",
+			"subcategories": [
+				{
+					"subCategory_name": "Appliances-mechanical",
+					"subCategory_description": "Appliances are mechanical devices designed to perform specific tasks within a workplace."
+				}
+			]
+		},
+		"supplier": {
+			"company_name": "Amazon Legal Department",
+			"contact": {
+				"phone": "(206) 266-4064",
+				"fax": " (206) 266-7010",
+				"mail": "info@amazon.com"
+			}
+		},
+		"stocks": [
+			{
+				"quantity_available": 55,
+				"reorder_level": 5,
+				"reorder_quantity": 20,
+				"warehouse_location": "Amazon DAL9, 1400 Southport Pkwy, Wilmer, TX 75141, United States"
+			},
+			{
+				"quantity_available": 23,
+				"reorder_level": 2,
+				"reorder_quantity": 23,
+				"warehouse_location": "Amazon STX6, 18625 Schultz Ln, Pflugerville, TX 78660, United States"
+			}
+		],
+		"reviews": [
+			{
+				"customer_id": {
+					"$oid": "663c81d024475b7558cbd8f2"
+				},
+				"rating": 4.8,
+				"review_text": "Does the job with a great price.",
+				"review_date": "2024-04-08 11:27:43"
+			},
+			{
+				"customer_id": {
+					"$oid": "663c7c2324475b7558cbd8f0"
+				},
+				"rating": 5,
+				"review_text": "Good quality for a great price!",
+				"review_date": "2024-03-09 05:32:14"
+			}
+		]
+	}
+]

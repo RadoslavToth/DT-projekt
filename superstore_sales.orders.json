@@ -1,0 +1,75 @@
+[{
+  "_id": {
+    "$oid": "663c905a24475b7558cbd8f9"
+  },
+  "customer_id": {
+    "$oid": "663c79a624475b7558cbd8ef"
+  },
+  "segment": "Consumer",
+  "ship_mode": "Standard Class",
+  "order_date": "2023-06-09",
+  "ship_date": "2023-06-14",
+  "order_details": {
+    "total": 222.3,
+    "items": [
+      {
+        "product_id": {
+          "$oid": "663c8d3c24475b7558cbd8f7"
+        },
+        "quantity": 2,
+        "discount": 7.5,
+        "profit": 22.43
+      }
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "663c93fe24475b7558cbd8fa"
+  },
+  "customer_id": {
+    "$oid": "663c7c2324475b7558cbd8f0"
+  },
+  "segment": "Home Office",
+  "ship_mode": "Standard Class",
+  "order_date": "2023-11-22",
+  "ship_date": "2023-11-26",
+  "order_details": {
+    "total": 261.74,
+    "items": [
+      {
+        "product_id": {
+          "$oid": "663c8e7724475b7558cbd8f8"
+        },
+        "quantity": 4,
+        "discount": 13.5,
+        "profit": 52.34
+      }
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "663c956024475b7558cbd8fb"
+  },
+  "customer_id": {
+    "$oid": "663c81d024475b7558cbd8f2"
+  },
+  "segment": "Corporate",
+  "ship_mode": "First Class",
+  "order_date": "2023-09-10",
+  "ship_date": "2023-09-12",
+  "order_details": {
+    "total": 423.7,
+    "items": [
+      {
+        "product_id": {
+          "$oid": "663c8b5d24475b7558cbd8f4"
+        },
+        "quantity": 3,
+        "discount": 17.8,
+        "profit": 84.74
+      }
+    ]
+  }
+}]
